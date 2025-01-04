@@ -20,3 +20,17 @@ A GUI-based Java application for managing student attendance. It allows users to
    - Easy-to-use interface with modern styling.
 
 ## Project Structure
+AttendanceManagementSystem/ ├── src/ │ └── AttendanceManagementSystem.java ├── resources/ │ ├── students.txt │ └── attendance.csv └── README.md
+
+## How to Run
+1. Compile the Java file:
+2. Run the application:
+
+## Requirements
+- JDK 8 or higher.
+
+## Testing
+- Test for adding duplicate students.
+- Test the responsiveness of the UI.
+- Validate attendance records after saving.
+
